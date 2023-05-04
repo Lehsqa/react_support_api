@@ -23,7 +23,7 @@ function App() {
     <div>
       <div className='App'>
         <input type="text" value={inputValue} onChange={handleInputChange} />
-        <button onClick={handleButtonClick}>Send Request</button>
+        <button onClick={handleButtonClick}>Answer</button>
       </div>
       <div className='paragraph'>
         <Paragraph response={responseText}/>
