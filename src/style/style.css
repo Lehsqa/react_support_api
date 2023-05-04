@@ -1,0 +1,24 @@
+* {
+    margin: 1;
+    padding: 1;
+}
+
+body {
+    background-color: rgb(74, 74, 74);
+    color: azure;
+}
+
+.App {
+    background-color: #282c34;
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    padding-left: 30px;
+}
+
+.paragraph {
+    background-color: #282c34;
+}
